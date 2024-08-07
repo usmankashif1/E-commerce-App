@@ -150,7 +150,7 @@ const HomePage = () => {
             </View>
           </View>
         </View>
-        <View
+        {/* <View
           style={{
             justifyContent: 'center',
             alignItems: 'center',
@@ -161,7 +161,7 @@ const HomePage = () => {
             style={{width: 370, height: 200}}
             source={require('../assets/images/mac.png')}
           /> */}
-        </View>
+        </View> */}
         <View style={{alignItems: 'center',marginTop:20,}}>
           <View
             style={{
